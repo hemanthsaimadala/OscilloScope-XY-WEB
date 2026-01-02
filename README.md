@@ -7,6 +7,11 @@ Visualize audio signals from files or microphone using Web Audio API.
 
 ---
 
+## Live Demo
+Try it live in your browser: [Click here](https://gibsy.github.io/OscilloScope-XY-WEB/)
+
+---
+
 ## ✨ Features
 
 - Real-time XY oscilloscope rendering
